@@ -28,4 +28,4 @@ for(int i=0 ; i < 5 ; i++)
 
 ---
 
-![ubuntu](https://github.com/liujianfeng2003/test/raw/main/ubuntu_app_start.png)
+![ubuntu](/test/ubuntu_app_start.png)
