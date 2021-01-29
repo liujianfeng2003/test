@@ -28,4 +28,4 @@ for(int i=0 ; i < 5 ; i++)
 
 ---
 
-![ubuntu](/test/ubuntu_app_start.png)
+![ubuntu](ubuntu_app_start.png)
