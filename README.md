@@ -26,6 +26,6 @@ for(int i=0 ; i < 5 ; i++)
 
 :eyes:
 
-===
+---
 
 ![ubuntu](https://github.com/liujianfeng2003/test/blob/main/ubuntu_app_start.png?raw=true)
