@@ -1,6 +1,6 @@
 ## what is the problem?
 
-this is a [baidu)(http://www.baidu.com)
+this is a [baidu](http://www.baidu.com)
 
 * list 1
 * list 2
@@ -8,5 +8,6 @@ this is a [baidu)(http://www.baidu.com)
 ref
 
 > ref 1
+
 > ref 2
 
