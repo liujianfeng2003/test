@@ -27,5 +27,3 @@ for(int i=0 ; i < 5 ; i++)
 :eyes:
 
 ---
-
-![ubuntu](ubuntu_app_start.png)
