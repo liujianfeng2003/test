@@ -22,6 +22,10 @@ for(int i=0 ; i < 5 ; i++)
    System.out.println("i is : " + i);
 }
 ```
+---
+
 :eyes:
 
-![baidu](https://github.com/liujianfeng2003/test/blob/main/ubuntu_app_start.png)
+===
+
+![ubuntu](https://github.com/liujianfeng2003/test/blob/main/ubuntu_app_start.png?raw=true)
