@@ -24,4 +24,4 @@ for(int i=0 ; i < 5 ; i++)
 ```
 :eyes:
 
-![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+![baidu](https://github.com/liujianfeng2003/test/blob/main/ubuntu_app_start.png)
